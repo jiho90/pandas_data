@@ -1,0 +1,11 @@
+gender,age,married,n_kids,education_level,contract,annual_salary,debt,ethnicity,working_spouse,area_code,credit_score
+male,54,0,1,2,temporary,20000,0,white,0,Dusty Suburb,2
+male,40,0,3,3,temporary,44000,69000,white,0,Golden Suburb,2
+female,28,1,1,2,temporary,28000,18000,white,0,Golden Suburb,2
+female,43,1,2,2,temporary,33000,15000,black,0,City Center,3
+female,57,1,2,2,permanent,31000,37000,latin,0,Dusty Suburb,2
+male,34,0,1,4,permanent,55000,7000,white,0,Golden Suburb,5
+male,38,1,2,3,temporary,55000,72000,white,1,Golden Suburb,3
+male,52,1,2,2,permanent,61000,88000,white,0,Golden Suburb,3
+male,60,0,1,1,temporary,17000,21000,white,0,Dusty Suburb,1
+male,49,1,1,4,permanent,101000,0,black,0,City Center,4
